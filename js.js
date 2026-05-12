@@ -13,6 +13,9 @@ ${personaje.name}
 <p>
 ${personaje.species}
 </p>
+<p>
+${personaje.status}
+</p>
 </div>
 </div>
 </div>
